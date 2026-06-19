@@ -22,10 +22,15 @@ This project helps you organize study tasks, track progress, and mark completion
 ##  Project Structure
 ```
 study_planner_ai/
+
 │── README.md
+
 │── requirements.txt
+
 │── study_planner_ai.py
+
 │── TODO.md
+
 ```
 
 ---
